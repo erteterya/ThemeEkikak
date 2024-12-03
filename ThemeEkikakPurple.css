@@ -42,8 +42,8 @@
 	--text-1: hsl(0, 0%, 100%); /* other normally white text */
 	--text-2: hsl(290, 15%, 60%); /* headings and important text */
 	--text-3: hsl(290, 15%, 60%); /* normal text */
-	--text-4: hsl(290, 25%, 40%); /* icon buttons and channels */
-	--text-5: hsl(290, 15%, 30%); /* muted channels/chats and timestamps */
+	--text-4: hsl(289, 28%, 50%); /* icon buttons and channels */
+	--text-5: hsl(290, 63%, 35%); /* muted channels/chats and timestamps */
 
 	/* background and dark colors */
 	--bg-1: hsl(220, 15%, 20%); /* dark buttons when clicked */
@@ -934,7 +934,6 @@ button.button_f67531 /* make user panel buttons round */ {
 .fixedDiscoveryIcon_fea3ef {
 	color:var(--green-360)
 }
-
 .theme-light {
 	--text-link: var(--accent-5);
 }
